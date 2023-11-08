@@ -5,7 +5,7 @@ const Footer= () =>{
         <div>
            
            <hr></hr>
-           <h2><center>727722euit150@skcet.ac.in</center></h2>
+           <h2><center>727722euit184@skcet.ac.in</center></h2>
            <hr></hr>
 
         </div>
