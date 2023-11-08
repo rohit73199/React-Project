@@ -1,8 +1,8 @@
 import './App.css';
+import Buttons from './components/Buttons';
 {/*import Navbar from './components/Navbar';
 import Main from './components/Main';
 import Footer from './components/Footer';*/}
-import 
 
 function App() {
   return(
